@@ -2,7 +2,5 @@
 
 ### Salve!
 ❝ 99 percent of all statistics only tell 49 percent of the story. ❞
-<br>
 <p><i>  ― Ron DeLegge II, Gents with No Cents</i></p>
-<br> 
 <p align="center"></p>This Github page is dedicated to the other 51% - aka lies!</p>
