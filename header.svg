@@ -34,7 +34,9 @@
         }
       </style>
       <div class="container">
-        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+        <h1>Hi there, my name is Nikola <div class="hi">
+          <img src="https://raw.githubusercontent.com/mosioc/mosioc/main/tor.png"/>
+        </div></h1>
       </div>
     </div>
   </foreignObject>
