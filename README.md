@@ -4,3 +4,7 @@
 ❝ 99 percent of all statistics only tell 49 percent of the story. ❞
 <p><i>  ― Ron DeLegge II </i></p>
 <p align="left">This Github page is dedicated to the other 51 percent - aka 100 percent lies!</p>
+
+<img align="center" src="https://media.giphy.com/media/AcyGx1zMrhKMMuD4ue/giphy.gif" style="" alt="footer">
+
+
