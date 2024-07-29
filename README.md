@@ -5,8 +5,3 @@
 <p><i>  ― Ron DeLegge II </i></p>
 <p align="left">This Github page is dedicated to the other 51 percent - aka 100 percent lies!</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Dla4YEgg9XByXq8GBW/giphy.gif" alt="footer">
-</div>
-
-
